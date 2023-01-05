@@ -11,6 +11,7 @@ config_version=4
 [application]
 
 config/name="Project-snake"
+run/main_scene="res://scenes/world.tscn"
 config/icon="res://icon.png"
 
 [display]
