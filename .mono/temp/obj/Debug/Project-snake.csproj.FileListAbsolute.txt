@@ -1,9 +1,0 @@
-D:\Dev\Godot\ProjectSnake\project-snake\.mono\temp\bin\Debug\Project-snake.dll
-D:\Dev\Godot\ProjectSnake\project-snake\.mono\temp\bin\Debug\Project-snake.pdb
-D:\Dev\Godot\ProjectSnake\project-snake\.mono\temp\obj\Debug\Project-snake.csproj.AssemblyReference.cache
-D:\Dev\Godot\ProjectSnake\project-snake\.mono\temp\obj\Debug\Project-snake.GeneratedMSBuildEditorConfig.editorconfig
-D:\Dev\Godot\ProjectSnake\project-snake\.mono\temp\obj\Debug\Project-snake.AssemblyInfoInputs.cache
-D:\Dev\Godot\ProjectSnake\project-snake\.mono\temp\obj\Debug\Project-snake.AssemblyInfo.cs
-D:\Dev\Godot\ProjectSnake\project-snake\.mono\temp\obj\Debug\Project-snake.csproj.CoreCompileInputs.cache
-D:\Dev\Godot\ProjectSnake\project-snake\.mono\temp\obj\Debug\Project-snake.dll
-D:\Dev\Godot\ProjectSnake\project-snake\.mono\temp\obj\Debug\Project-snake.pdb
