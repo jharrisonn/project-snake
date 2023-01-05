@@ -18,6 +18,7 @@ public class world : Node2D
 	public override void _Process(float delta) {
 		if (Input.IsActionJustPressed("act")) {
 			Node t = lTroop.Instance();
+			
 			AddChild(t);
 		}
 	}
