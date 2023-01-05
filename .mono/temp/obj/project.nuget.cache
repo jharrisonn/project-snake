@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DYdLIRirEsy6Oe6fISUffBKw+xXDQmutygASY08g5gN3L0k0/y2UhfIJSB+deIYo0+M8xwWSnmuJQXPaoCdj4w==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Godot\\ProjectSnake\\project-snake\\Project-snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
