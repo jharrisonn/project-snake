@@ -8,5 +8,6 @@ func _ready():
 func _process(delta):
 	if Input.is_action_just_pressed("act"):
 		var t = preTroop.instance()
-		t.position = get_global_mouse_position() / 2
+		t.position = $tower.position 
+		t.direction = get_global_mouse_position() / 2 - t.position
 		self.add_child(t)
